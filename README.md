@@ -33,7 +33,7 @@ npm test
 
 ## Live Deployment
 
-A temporary live verification URL is available at [https://3128-iq2ng7lfmirjw3oi977xs-a5b47eb6.sg1.manus.computer](https://3128-iq2ng7lfmirjw3oi977xs-a5b47eb6.sg1.manus.computer). It is intended for review during this task and may expire when the sandbox session ends.
+A temporary live verification URL is available at [https://3020-i587ljilekfq9rg7n5e69-a7b3c11e.sg2.manus.computer](https://3020-i587ljilekfq9rg7n5e69-a7b3c11e.sg2.manus.computer). It is intended for review during this task and may expire when the sandbox session ends.
 
 ## Refactoring Record
 
